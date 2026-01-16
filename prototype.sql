@@ -120,11 +120,11 @@ GROUP BY r.rayon_id;
 
 
 --PARTIE 2 : requêtes UPDATE
-UPDATE lecteur SET email = "alaemaghchich2004@gmail.com"
+UPDATE lecteur SET email = "ayoubamaghouche@gmail.com"
 WHERE lecteur_id = 1;
 
-UPDATE lecteur SET tel = "0655454642"
-WHERE cin = "K123456";
+UPDATE lecteur SET tel = "0609244835"
+WHERE cin = "K8787869";
 
 SELECT * FROM LECTEUR;
 
